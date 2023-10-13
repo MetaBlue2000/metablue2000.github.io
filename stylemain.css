@@ -13,10 +13,8 @@ span.entete{
     background-color: gray;
     padding: 10px;
     margin-bottom: 5px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 div.allbody{
     z-index: 0;
 }
-
-/*Test the css file*/
